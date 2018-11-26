@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(243, 241, 219)
+}
+h2{
+    text-align: center;
+}
+#list th a{
+    color: black; 
+    text-decoration: none;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
