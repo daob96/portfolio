@@ -1,12 +1,22 @@
 body{
-    background-color: rgb(243, 241, 219)
+    background-color: #f8fcfb;
+    color: #3c5d5d;
+    font-size: 17px;
 }
 h2{
     text-align: center;
 }
+img{
+    width: 150px;
+    height: 150px;
+}
+.row{
+    background-color: #c8d5e0;
+}
 #list th a{
-    color: black; 
+    color: #5b9292; 
     text-decoration: none;
+    font-size: 18px;
 }
 table{
     width: 100%;
